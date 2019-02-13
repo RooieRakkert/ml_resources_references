@@ -5,14 +5,14 @@ Some nice tutorials.
 ## The list
 
 - [MIT Deep Learning notebooks](https://github.com/lexfridman/mit-deep-learning)
-
+- [Tensorflow tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - could be from an outdated TF version..
 
 ## Jupyter notebooks
 
 - [Scikit-learn Jupyter notebooks & videos](https://github.com/justmarkham/scikit-learn-videos)
 - [Data wrangling with Pandas exercises](https://github.com/guipsamora/pandas_exercises)
 - [Hands-on machine learning with scikit-learn and tensorflow](https://github.com/ageron/handson-ml) - Book isn't free, but great Jupyter notebooks accompany this book.
-
+- [Advanced Scikit-learn](https://github.com/amueller/advanced_training)
 
 ## YouTubers
 

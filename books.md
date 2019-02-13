@@ -9,3 +9,4 @@ An overview of awesome (free) textbooks.
 - [The hunderd page ML book](http://themlbook.com/wiki/doku.php)
 - [Mining massive datasets - Stanford](http://www.mmds.org/)
 - [Introduction to Information Retrieval - Stanford](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- [Neural Network Design](http://hagan.okstate.edu/nnd.html)

@@ -13,3 +13,4 @@ A collection of great blogs and websites you should bookmark!
 - [Google AI publications](https://ai.google/research/pubs)
 - [Facebook research publications](https://research.fb.com/publications/)
 - [Han Xiao tech blog](https://hanxiao.github.io/)
+- [Explained.AI](https://explained.ai/)

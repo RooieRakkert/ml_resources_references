@@ -10,6 +10,8 @@ Here you will find several (online) courses.
 - [Fast.AI](https://fast.ai)
 - [Introduction to Artificial Intelligence - Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 - [Machine learning crash course - Berkeley](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+- [Coursera - Machine Learning by Andrew NG](http://coursera.org/learn/machine-learning/home/welcome)
+- [Coursera - Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
 
 ## Stanford courses
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)

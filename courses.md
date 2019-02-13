@@ -16,3 +16,4 @@ Here you will find several (online) courses.
 - [CS230: Deep Learning](http://cs230.stanford.edu/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [CS229: Machine Learning](http://cs229.stanford.edu/)
+- [Video Lectures Linear Algebra - Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)

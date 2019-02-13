@@ -10,3 +10,5 @@ An overview of awesome (free) textbooks.
 - [Mining massive datasets - Stanford](http://www.mmds.org/)
 - [Introduction to Information Retrieval - Stanford](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 - [Neural Network Design](http://hagan.okstate.edu/nnd.html)
+- [Hands-on machine learning with scikit-learn and tensorflow](https://github.com/ageron/handson-ml) (the book is not free, but the notebooks are)
+

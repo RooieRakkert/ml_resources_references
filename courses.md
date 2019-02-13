@@ -13,6 +13,10 @@ Here you will find several (online) courses.
 - [Coursera - Machine Learning by Andrew NG](http://coursera.org/learn/machine-learning/home/welcome)
 - [Coursera - Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
 
+## MIT courses
+
+- [MIT Deep Learning](https://deeplearning.mit.edu/)
+
 ## Stanford courses
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [CS230: Deep Learning](http://cs230.stanford.edu/)

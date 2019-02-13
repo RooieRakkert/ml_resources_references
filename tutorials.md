@@ -1,6 +1,11 @@
 # Tutorials
 
-placeholder
+Some nice tutorials.
+
+## The list
+
+- [MIT Deep Learning notebooks](https://github.com/lexfridman/mit-deep-learning)
+
 
 ## Jupyter notebooks
 

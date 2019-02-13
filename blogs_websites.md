@@ -14,3 +14,5 @@ A collection of great blogs and websites you should bookmark!
 - [Facebook research publications](https://research.fb.com/publications/)
 - [Han Xiao tech blog](https://hanxiao.github.io/)
 - [Explained.AI](https://explained.ai/)
+- [Reddit/r/Machinelearning](https://www.reddit.com/r/machinelearning) - great for news, new papers, hot topics etc.
+- [MachineLearningMastery blog](https://machinelearningmastery.com/blog/) - some nice, short, concise tutorials.

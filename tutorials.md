@@ -9,7 +9,10 @@ Some nice tutorials.
 
 ## Jupyter notebooks
 
-- [Scikit-learn Book Jupyter Notebooks GitHub](https://github.com/justmarkham/scikit-learn-videos)
+- [Scikit-learn Jupyter notebooks & videos](https://github.com/justmarkham/scikit-learn-videos)
+- [Data wrangling with Pandas exercises](https://github.com/guipsamora/pandas_exercises)
+- [Hands-on machine learning with scikit-learn and tensorflow](https://github.com/ageron/handson-ml) - Book isn't free, but great Jupyter notebooks accompany this book.
+
 
 ## YouTubers
 

@@ -10,3 +10,6 @@ A collection of great blogs and websites you should bookmark!
 - [Real Python](https://realpython.com/)
 - [Sebastian Ruder](http://ruder.io/) - NLP related blog
 - [WildML](http://www.wildml.com/)
+- [Google AI publications](https://ai.google/research/pubs)
+- [Facebook research publications](https://research.fb.com/publications/)
+- [Han Xiao tech blog](https://hanxiao.github.io/)

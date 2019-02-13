@@ -32,4 +32,4 @@ Here you will find awesome resources in regards to Machine Learning
 #### Data sets
 
 - [Data world](https://data.world/)
-
+- [A Realistic Cyber Defense Dataset - CSE CIC IDS 2018](https://registry.opendata.aws/cse-cic-ids2018/)

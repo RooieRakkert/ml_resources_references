@@ -20,6 +20,9 @@ Here you will find awesome resources in regards to Machine Learning
 - [Google back propagation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 - [How to use T-SNE effectively](https://distill.pub/2016/misread-tsne/)
 - [BERT and ELMO (NLP transfer learning)](https://jalammar.github.io/illustrated-bert/) - check out other posts on this blog!
+- [D3 Graph theory](https://mrpandey.github.io/d3graphTheory/) - Learn Graph Theory through D3 animated graphs
+- [Interactive visualization of GloVe word analogies](https://lamyiowce.github.io/word2viz/)
+- [Backpropagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
 #### Cheat Sheets
 

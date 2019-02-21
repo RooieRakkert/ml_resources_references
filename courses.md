@@ -12,6 +12,7 @@ Here you will find several (online) courses.
 - [Machine learning crash course - Berkeley](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 - [Coursera - Machine Learning by Andrew NG](http://coursera.org/learn/machine-learning/home/welcome)
 - [Coursera - Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
+- [Coursera - Advanced Machine Learning specialization](https://www.coursera.org/specializations/aml)
 
 ## MIT courses
 

@@ -10,7 +10,7 @@ Currently, this repo is still a work-in-progress, the current setup is subject t
 - Machine Learning brings you **predictions**.
 - AI will perform **actions** based on aforementioned knowledge.
 
-- The AI effect; *Everytime we figure out a piece of it, it stops being magical. We say; 'Oh, its just a computation.'*
+- The AI effect; *Everytime we figure out a piece of it, it stops being magical. We say; 'Oh, its just a computation.'* (Rodney Brooks)
 
 ## Overview 
 

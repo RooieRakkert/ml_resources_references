@@ -16,3 +16,4 @@ A collection of great blogs and websites you should bookmark!
 - [Explained.AI](https://explained.ai/)
 - [Reddit/r/Machinelearning](https://www.reddit.com/r/machinelearning) - great for news, new papers, hot topics etc.
 - [MachineLearningMastery blog](https://machinelearningmastery.com/blog/) - some nice, short, concise tutorials.
+- [HackerNews Ycombinator](https://news.ycombinator.com/best)

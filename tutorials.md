@@ -6,6 +6,7 @@ Some nice tutorials.
 
 - [MIT Deep Learning notebooks](https://github.com/lexfridman/mit-deep-learning)
 - [Tensorflow tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - could be from an outdated TF version..
+- [Practical tips for training distributed on multi GPU](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
 
 ## Jupyter notebooks
 

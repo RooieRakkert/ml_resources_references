@@ -19,6 +19,7 @@ Here you will find several (online) courses.
 ## MIT courses
 
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [MIT Introduction to Deep Learning (2019)](http://introtodeeplearning.com/)
 
 ## Stanford courses
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)

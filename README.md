@@ -27,6 +27,7 @@ To structurize things a bit, this repo is divided into several main subjects:
 
 ### Todo's:
 
+- Re-structure this repo according to subject
 - Computer Vision
 - Reinforcement Learning
 - Recommender Systems

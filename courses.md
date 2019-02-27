@@ -13,6 +13,8 @@ Here you will find several (online) courses.
 - [Coursera - Machine Learning by Andrew NG](http://coursera.org/learn/machine-learning/home/welcome)
 - [Coursera - Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
 - [Coursera - Advanced Machine Learning specialization](https://www.coursera.org/specializations/aml)
+- [Overview and review of most important courses](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+
 
 ## MIT courses
 

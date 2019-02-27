@@ -13,6 +13,9 @@ Here you will find awesome resources in regards to Machine Learning
 - [The unreasonable effectiveness of recurrent neural networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 - [Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Neural Networks, Manifolds and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+- [Which activation to use - Deep Learning](https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
+- [Attacks against ML - an overview](https://elie.net/blog/ai/attacks-against-machine-learning-an-overview/)
+- [Common ML problems in production; how to fix them](https://medium.com/thelaunchpad/how-to-protect-your-machine-learning-product-from-time-adversaries-and-itself-ff07727d6712)
 
 #### Visual explanations
 
@@ -24,6 +27,7 @@ Here you will find awesome resources in regards to Machine Learning
 - [Interactive visualization of GloVe word analogies](https://lamyiowce.github.io/word2viz/)
 - [Backpropagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 - [Notes from Deep Learning Coursera course](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+- [How a Kalman filter works](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 #### Cheat Sheets
 

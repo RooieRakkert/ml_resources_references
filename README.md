@@ -2,7 +2,7 @@
 This repository will hold a collection of valuable ML/DS resources and references.
 Every reference and resource is given in no specific order.
 
-Currently, this repo is still a work-in-progress, the current setup is subject to change.
+> Currently, this repo is still a work-in-progress, the current setup is subject to change.
 
 ## Remember kids:
 

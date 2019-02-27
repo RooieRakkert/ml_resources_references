@@ -11,7 +11,7 @@ Here you will find several (online) courses.
 - [Introduction to Artificial Intelligence - Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 - [Machine learning crash course - Berkeley](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 - [Coursera - Machine Learning by Andrew NG](http://coursera.org/learn/machine-learning/home/welcome)
-- [Coursera - Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
+- [Coursera - Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) - check out [these notes](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)!
 - [Coursera - Advanced Machine Learning specialization](https://www.coursera.org/specializations/aml)
 - [Overview and review of most important courses](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 

@@ -16,6 +16,7 @@ Here you will find awesome resources in regards to Machine Learning
 - [Which activation to use - Deep Learning](https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 - [Attacks against ML - an overview](https://elie.net/blog/ai/attacks-against-machine-learning-an-overview/)
 - [Common ML problems in production; how to fix them](https://medium.com/thelaunchpad/how-to-protect-your-machine-learning-product-from-time-adversaries-and-itself-ff07727d6712)
+- [AdaBoost, Clearly explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)
 
 #### Visual explanations
 

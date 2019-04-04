@@ -30,6 +30,7 @@ Here you will find awesome resources in regards to Machine Learning
 - [Backpropagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 - [Notes from Deep Learning Coursera course](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 - [How a Kalman filter works](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+- [Guassian processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 #### Cheat Sheets
 

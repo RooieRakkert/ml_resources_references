@@ -19,3 +19,4 @@ A collection of great blogs and websites you should bookmark!
 - [MachineLearningMastery blog](https://machinelearningmastery.com/blog/) - some nice, short, concise tutorials.
 - [HackerNews Ycombinator](https://news.ycombinator.com/best)
 - [Hackernoon blog](https://hackernoon.com/thinking-of-self-studying-machine-learning-remind-yourself-of-these-6-things-b55a5f2b6c7d) - a blog post about self-learning machine learning
+- [Distill.pub](https://distill.pub/) - great visual explanations of hard subjects

@@ -32,4 +32,4 @@ To structurize things a bit, this repo is divided into several main subjects:
 - Reinforcement Learning
 - Recommender Systems
 - Time Series
-- Check [this curated list](https://github.com/josephmisiti/awesome-machine-learning) and [this repo](https://github.com/kmario23/deep-learning-drizzle)
+- Check [this curated list](https://github.com/josephmisiti/awesome-machine-learning), maybe [another curated list](https://github.com/r0f1/datascience) and [this repo](https://github.com/kmario23/deep-learning-drizzle)

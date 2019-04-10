@@ -23,7 +23,8 @@ Here you will find several (online) courses.
 
 ## Stanford courses
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-- [CS230: Deep Learning](http://cs230.stanford.edu/)
+- [CS230: Deep Learning](http://cs230.stanford.edu/), [YT playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb), [GitHub repo with Deeplearning
+  assignments](https://github.com/limberc/deeplearning.ai)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [CS229: Machine Learning](http://cs229.stanford.edu/)
 - [Video Lectures Linear Algebra - Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
